@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "C:\AutoMount\_AutoMount.cmd",0,FALSE

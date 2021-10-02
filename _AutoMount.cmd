@@ -1,0 +1,1 @@
+diskpart /s C:\AutoMount\diskpart_script.txt
